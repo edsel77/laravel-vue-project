@@ -10,4 +10,5 @@ Installation and development:
     - php artisan migrate
     - php artisan db:seed
     - php artisan serve
+    - npm install
     - npm run watch
