@@ -12,3 +12,8 @@ Installation and development:
     - php artisan serve
     - npm install
     - npm run watch
+
+User login:
+- Pick one user from the users table
+- Login requirements are username and password
+- Password is initially the same with the username upon registration
