@@ -27,7 +27,7 @@
     "dependencies": {
         "admin-lte": "^3.0.0-alpha.2",
         "element-ui": "^2.13.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "sweetalert2": "^9.5.4",
         "validate.js": "^0.13.1",
         "vform": "^1.0.1",
